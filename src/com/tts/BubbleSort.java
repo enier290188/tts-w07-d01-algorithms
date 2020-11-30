@@ -22,7 +22,6 @@ public class BubbleSort {
         a[j] = temp;
     }
 
-
     public static void main(String[] args) {
         Random r = new Random();
         int[] arr = new int[10];
